@@ -1,0 +1,4 @@
+E:\ProjectsVS\TaskManagerWpf\TaskManagerWpf\TaskManager\bin\Debug\TaskManager.dll
+E:\ProjectsVS\TaskManagerWpf\TaskManagerWpf\TaskManager\bin\Debug\TaskManager.pdb
+E:\ProjectsVS\TaskManagerWpf\TaskManagerWpf\TaskManager\obj\Debug\TaskManager.dll
+E:\ProjectsVS\TaskManagerWpf\TaskManagerWpf\TaskManager\obj\Debug\TaskManager.pdb
